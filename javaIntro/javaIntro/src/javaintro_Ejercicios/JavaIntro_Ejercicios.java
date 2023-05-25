@@ -32,7 +32,7 @@ public class JavaIntro_Ejercicios {
         id = 123456789;
         
         
-    }
+    
     
     
     // Ejercicio 3 !Define variables donde puedas alojar los resultados y prueba usar dos operadores de cada tipo.
@@ -52,7 +52,10 @@ public class JavaIntro_Ejercicios {
    
    // Ejercicio 4 ! Define una variable que aloje tu nombre y otra que guarde tu edad. Imprime ambas variables por pantalla
     
-    System.out.println(“Hola Mundo”);
-
+    System.out.println("Su nombre es: "+ name + " y su edad es: "+ old);
+    
+    
+    }
+    
 }
 

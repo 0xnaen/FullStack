@@ -28,7 +28,7 @@ public class Guia_12_Ej_3_ {
              String n1 = input.nextLine();
              divi.setNum1(Integer.parseInt(n1));
              
-               System.out.println("Ingrese el primer numero");
+               System.out.println("Ingrese el Segundo numero");
              String n2 = input.nextLine();
              divi.setNum2(Integer.parseInt(n2));
             
